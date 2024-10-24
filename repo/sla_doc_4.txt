@@ -1,0 +1,39 @@
+Service Level Agreement (SLA) for Early Termination of Service
+Account Information:
+	- Account Holder Name: [Blake watson]
+	- Account Number: [0.0.0.1-1268220]
+	- Address: [Alphargetta
+	- City, State, Zip Code: [Texas. US, 12938]
+Effective Date: [13/08/2024 Date]
+Date of Termination: [13/10/2026]
+1. Purpose
+This Service Level Agreement outlines the terms and conditions regarding the early termination of services provided by [Your Company Name].
+2. Services Covered
+The following services are covered under this SLA:
+	- Internet Service
+	- Contract Period: [12 months]
+	- Phone Service
+	- Contract Period: [12 months]
+	- Additional Services (if applicable)
+	- Contract Period: [6 months]
+3. Termination Policy
+Customers wishing to terminate services before the end of the agreed contract period must provide written notice to [Your Company Name] at least [Number of Days] days in advance.
+4. Early Termination Charges
+Should the customer terminate services prior to the end of the agreed contract period, the following charges will apply:
+	- Internet Service: $[150]
+	- Phone Service: $[100]
+	- Additional Services: $[50] 
+5. Payment Terms
+The early termination charges will be billed to the customer's account and must be paid within [Number of Days] days from the date of termination.
+6. Contact Information
+For any inquiries or to submit a termination notice, please contact:
+	- Customer Service: [381281329]
+	- Email: [test@gmail.com]
+	- Mailing Address: [Test Mailing Address]
+7. Agreement Acknowledgment
+By signing below, the customer acknowledges and agrees to the terms of this Service Level Agreement.
+Customer Signature: _______________________
+Date: _______________________
+[Your Company Name] Representative Signature: _______________________
+Date: _______________________
+
